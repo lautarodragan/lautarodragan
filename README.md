@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Taro 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-My name's Lautaro Dragan. I'm a professional JavaScript and TypeScript developer. I've been creating applications professionally since 2009, and for fun and learning for 5 years before that. 
+I'm a professional JavaScript and TypeScript developer. I've been creating applications professionally since 2009, and for fun and learning for 5 years before that. 
 
 My teams and I have deployed code used by tens of millions of humans and I've learned a few things in the process. 
 
