@@ -21,4 +21,4 @@ I've written applications large and small, backend, frontend and Android, in 7 d
 
 📖 I write about JavaScript, software architecture, crypto-currencies an more: https://tarokun.io.
 
-💪 I'm looking for my new awesome challenge. If you're working on something great, [let's talk](https://linkedin.com/in/lautarodragan)! 
+💪 I'm looking for my next awesome challenge. If you're working on something great, [let's talk](https://linkedin.com/in/lautarodragan)! 
