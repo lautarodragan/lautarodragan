@@ -20,3 +20,5 @@ I've written applications large and small, backend, frontend and Android, in 7 d
 🌱 The main things I'm continuously learning about are *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography.
 
 📖 I write about JavaScript, software architecture, crypto-currencies an more: https://tarokun.io.
+
+💪 I'm currently working at Amazon. If you'd like to get in touch with me, message me over [LinkedIn](https://linkedin.com/in/lautarodragan)!
