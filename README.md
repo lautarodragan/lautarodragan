@@ -17,8 +17,8 @@ My teams and I have deployed code used by tens of millions of humans and I've le
 
 I've written applications large and small, backend, frontend and Android, in 7 different programming languages. I've been a Tech Lead, Agile Coach and Scrum Master. 
 
-🌱 The main things I'm continuously learning about are *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography.
+🌱 The main things I'm continuously learning about are *software architecture*, *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography.
 
 📖 I write about JavaScript, software architecture, crypto-currencies an more: https://tarokun.io.
 
-💪 I'm currently working at Amazon. If you'd like to get in touch with me, message me over [LinkedIn](https://linkedin.com/in/lautarodragan)!
+💪 Let's connect! Find me in [LinkedIn](https://linkedin.com/in/lautarodragan)!
