@@ -21,4 +21,4 @@ I've written applications large and small, backend, frontend and Android, in 7 d
 
 📖 I write about JavaScript, software architecture, crypto-currencies an more: https://tarokun.io.
 
-💪 Let's connect! Find me in [LinkedIn](https://linkedin.com/in/lautarodragan)!
+💪 Let's connect! Find me in [LinkedIn](https://linkedin.com/in/lautarodragan).
