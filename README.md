@@ -15,7 +15,14 @@ I'm a professional JavaScript and TypeScript developer. I've been creating large
 
 My teams and I have deployed code used by tens of millions of humans and I've learned a few things in the process. 
 
-I've written applications large and small, backend, frontend and Android, in 7 different programming languages. I've been a Tech Lead, Agile Coach and Scrum Master. I've worked for companies such as Amazon and Electronic Arts.
+Very short summary of my experience:
+- I've worked for Amazon, Electronic Arts and other large companies.
+- I've also worked for many small and medium start-ups.
+- I've written applications large and small, backend, frontend and Android, in 7 different programming languages. 
+- I've been a Tech Lead, Agile Coach and Scrum Master. 
+- 9 years of experience with NodeJS
+- 7 years of experience with ReactJS
+- 7 years of experience with TypeScript
 
 🌱 The main things I'm continuously learning about are *software architecture*, *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography and WebGL.
 
