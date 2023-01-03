@@ -15,10 +15,10 @@ I'm a professional JavaScript and TypeScript developer. I've been creating large
 
 My teams and I have deployed code used by tens of millions of humans and I've learned a few things in the process. 
 
-I've written applications large and small, backend, frontend and Android, in 7 different programming languages. I've been a Tech Lead, Agile Coach and Scrum Master. 
+I've written applications large and small, backend, frontend and Android, in 7 different programming languages. I've been a Tech Lead, Agile Coach and Scrum Master. I've worked for companies such as Amazon and Electronic Arts.
 
-🌱 The main things I'm continuously learning about are *software architecture*, *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography.
+🌱 The main things I'm continuously learning about are *software architecture*, *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography and WebGL.
 
-📖 I write about JavaScript, software architecture, crypto-currencies an more: https://tarokun.io.
+📖 I write about JavaScript, software architecture, cryptography an more: https://tarokun.io.
 
 💪 Let's connect! Find me in [LinkedIn](https://linkedin.com/in/lautarodragan).
