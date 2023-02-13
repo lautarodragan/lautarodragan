@@ -26,6 +26,6 @@ Very short summary of my experience:
 
 🌱 The main things I'm continuously learning about are *software architecture*, *functional programming* and *blockchains*, Bitcoin and Ethereum mainly. I've also grown an interest in cryptography and WebGL.
 
-📖 I write about JavaScript, software architecture, cryptography an more: https://tarokun.io.
+📖 I write about JavaScript, software architecture, cryptography an more: https://taro.codes.
 
 💪 Let's connect! Find me in [LinkedIn](https://linkedin.com/in/lautarodragan).
