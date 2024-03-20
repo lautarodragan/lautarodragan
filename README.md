@@ -20,12 +20,8 @@ Very short summary of my experience:
 
 #### Navigation
 
-I have many repos here — enough for them to be really hard to navigate or make sense of.
-
-It'd be awesome if GitHub supported something like folders or tags for repos, but it doesn't, so I decided to prefix them, which use kind of the next best thing.
-
-The main categories are:
-- [games](https://github.com/lautarodragan?tab=repositories&q=games.)
-- [PoCs](https://github.com/lautarodragan?tab=repositories&q=pocs.)
-- [Challenges](https://github.com/lautarodragan?tab=repositories&q=challenges.)
-- [hello-worlds](https://github.com/lautarodragan?tab=repositories&q=helloworlds.)
+I've added _topics_ to my repos to ease navigation. The main ones are:
+- [games](https://github.com/lautarodragan?tab=repositories&q=topic%3Agame)
+- [proof of concept](https://github.com/lautarodragan?tab=repositories&q=topic%3Aproof-of-concept)
+- [challenges](https://github.com/lautarodragan?tab=repositories&q=topic%3Achallenge)
+- [hello-worlds](https://github.com/lautarodragan?tab=repositories&q=topic%3Ahello-world)
