@@ -17,3 +17,14 @@ Very short summary of my experience:
 📖 I write about JavaScript, software architecture, cryptography and more: https://taro.codes.
 
 💪 Let's connect! Find me in [LinkedIn](https://linkedin.com/in/lautarodragan).
+
+#### Navigation
+
+I have many repos here — enough for them to be really hard to navigate or make sense of.
+
+It'd be awesome if GitHub supported something like folders or tags for repos, but it doesn't, so I decided to prefix them, which use kind of the next best thing.
+
+The main categories are:
+- [PoCs](https://github.com/lautarodragan?tab=repositories&q=pocs.)
+- [Challenges](https://github.com/lautarodragan?tab=repositories&q=challenges.)
+- [hello-worlds](https://github.com/lautarodragan?tab=repositories&q=helloworlds.)
