@@ -1,5 +1,5 @@
 ### Hey, I'm Taro 👋
-pronouns: _they/them_
+_pronouns: they/them_
 
 I'm a professional JavaScript and TypeScript developer. I've been creating large-scale applications since 2009, and for fun and learning since 2003. 
 
