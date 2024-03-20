@@ -25,3 +25,6 @@ I've added _topics_ to my repos to ease navigation. The main ones are:
 - [proof of concept](https://github.com/lautarodragan?tab=repositories&q=topic%3Aproof-of-concept)
 - [challenges](https://github.com/lautarodragan?tab=repositories&q=topic%3Achallenge)
 - [hello-worlds](https://github.com/lautarodragan?tab=repositories&q=topic%3Ahello-world)
+
+Some other handy searches:
+- [My public, non-fork repos](https://github.com/lautarodragan?tab=repositories&q=fork%3Afalse&type=public)
