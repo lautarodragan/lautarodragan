@@ -23,8 +23,11 @@ Very short summary of my experience:
 I've added _topics_ to my repos to ease navigation. The main ones are:
 - [games](https://github.com/lautarodragan?tab=repositories&q=topic%3Agame)
 - [proof of concept](https://github.com/lautarodragan?tab=repositories&q=topic%3Aproof-of-concept)
+- [applications](https://github.com/lautarodragan?tab=repositories&q=topic%3Aapplication)
 - [challenges](https://github.com/lautarodragan?tab=repositories&q=topic%3Achallenge)
 - [hello-worlds](https://github.com/lautarodragan?tab=repositories&q=topic%3Ahello-world)
 
 Some other handy searches:
-- [My public, non-fork repos](https://github.com/lautarodragan?tab=repositories&q=fork%3Afalse&type=public)
+- [all my public, non-fork repos](https://github.com/lautarodragan?tab=repositories&q=fork%3Afalse&type=public)
+
+And I also have a few gists: https://gist.github.com/lautarodragan.
